@@ -7,7 +7,6 @@ import android.view.View;
 import android.widget.Button;
 
 public class SplashActivity extends Activity {
-
     private Button btnSingleServiceClass, btnServiceManager;
 
     @Override
